@@ -11,7 +11,7 @@
 #include "PolygonElement.h" // Helpful for defining parts that make up an entire polygon... using curves, lines.
 #include "Renderer.h"		// Rendering functions are implemented here to keep main code clean.
 
-// MUKUL MALIK AND SUJAL GOSWAMI!
+// MUKUL MALIK (Author)
 
 // Function Declaration can be found below code...
 Renderer** loadShinChanMesh(Shader** shaderArray, int size);
